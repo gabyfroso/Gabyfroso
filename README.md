@@ -3,7 +3,7 @@ Hi My name is Gabriel, `"junior"` programmer
 
 # Redes
 
-[![Linkedin](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.linkedin.com/in/hugo-gabriel-frosoni-53566129b/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-9146FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-gabriel-frosoni-53566129b/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%2325D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/5493813637400)
  
  ---
